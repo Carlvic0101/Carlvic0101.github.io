@@ -21,7 +21,7 @@ git push
 Then in the repo: **Settings → Pages → Build and deployment**
 
 - Source: **Deploy from a branch**
-- Branch: `main` (or `master`)
+- Branch: `main`
 - Folder: **/docs**
 
-Site URL: https://carlvic0101.github.io/Carl.github.io/
+Site URL: https://carlvic0101.github.io/

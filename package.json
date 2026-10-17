@@ -10,7 +10,7 @@
     "preview": "vite preview",
     "deploy:docs": "vite build"
   },
-  "homepage": "https://carlvic0101.github.io/Carl.github.io/",
+  "homepage": "https://carlvic0101.github.io/",
   "dependencies": {
     "ogl": "^1.0.11",
     "react": "^19.1.0",
